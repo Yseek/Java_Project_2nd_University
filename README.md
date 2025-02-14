@@ -1,5 +1,11 @@
 ## 한국소프트웨어인재개발원 2차 프로젝트 [Gasan University DB]
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/c0c66cc5-b1ed-4c1e-b17c-439e181b783d" width="400" /> 
+  <img src="https://github.com/user-attachments/assets/46181e83-ec86-417f-a8ba-a564d7fe724c" width="400" /> 
+  <img src="https://github.com/user-attachments/assets/3f4fd020-34fd-4dcb-804a-7bad4e9d1965" width="400" /> 
+  <img src="https://github.com/user-attachments/assets/87e33d65-f252-452e-9ab0-3e7ccc766fdf" height="250" width="400" /> 
+</p>
 
 ## 프로젝트 목표
 
